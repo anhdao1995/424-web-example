@@ -10,6 +10,11 @@ To have code we cna use for hands on exercises.
 ##Conflict on Master
 This section will be different on the conflictbranch.
 
+##Method
+How will we resolve this conflict, since the "base" now has a
+conflict in it?
+
+
 You can use the [editor on GitHub](https://github.com/SBS-ISOM/424-web-example/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
